@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Software Development, Machine Learning, React Native App Development<br>🌱 I’m currently learning Rust<br>💬 Ask me about Software Development, ML<br>⚡ Fun fact, I am a big movie geek
+🔭 I’m currently working on Software Development, Machine Learning. AI Harness Engineering, React Native App Development<br>🌱 I’m currently learning Devops and scaled up systems<br>💬 Ask me about Software Development, ML<br>⚡ Fun fact, I am a big movie geek
 
 
 ## 🌐 Socials:
